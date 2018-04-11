@@ -11,12 +11,17 @@ import java.util.Scanner;
 4 3 5 2 6
 
 	| ITERATION 		 | VARIABLE NAME	 | VARIABLE NAME	 | VARIABLE NAME	 |
-	| initialization	 |				 |				 |				 | 
-	| 1				 |				 |				 |				 |
+	| initialization	 |					 |					 |					 | 
+	|1					 |		4			 |					 |					 |
+		2						3												
+		3						5											
+		4						2
+		5						6
 */
 
 /*
 2. What is does this algorithm accomplish? (i.e., what does it compute or find?)
+the lowest value integer
 
 
 */
